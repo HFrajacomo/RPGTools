@@ -1,0 +1,3 @@
+name;atk;price
+Ferro;1;3
+Cobre;0;1
